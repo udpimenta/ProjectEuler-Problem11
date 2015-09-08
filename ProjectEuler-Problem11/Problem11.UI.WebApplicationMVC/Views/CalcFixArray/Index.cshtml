@@ -1,0 +1,18 @@
+﻿@model Problem11.UI.WebApplicationMVC.Models.HomeModel
+@{
+    ViewBag.Title = "Uilian Dotto Pimenta";
+}
+
+<div class="jumbotron">
+    <h1>Calc Fix Array</h1>
+
+    @using (Html.BeginForm("CalcFixArray", "CalcFixArray", FormMethod.Post))
+    {
+        <p>Calcula o resultado apartir de um array fixo</p>
+        <br />
+        <button class="btn btn-primary" type="submit">CalcFixArray</button>
+        <br />
+        <strong>@TempData["Result1"]</strong>
+    }
+
+</div>

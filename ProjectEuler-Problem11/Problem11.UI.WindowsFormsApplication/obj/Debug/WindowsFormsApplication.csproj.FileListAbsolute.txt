@@ -1,0 +1,12 @@
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\Problem11\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\Problem11\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\Problem11\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\Problem11\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csprojResolveAssemblyReference.cache
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\Problem11\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\Problem11\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\Problem11\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\Problem11\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\Problem11\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb

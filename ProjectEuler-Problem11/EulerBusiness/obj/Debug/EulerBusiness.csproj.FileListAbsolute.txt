@@ -1,0 +1,9 @@
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\CoreBusiness\bin\Debug\EulerBusiness.dll
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\CoreBusiness\bin\Debug\EulerBusiness.pdb
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\CoreBusiness\obj\Debug\EulerBusiness.dll
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\CoreBusiness\obj\Debug\EulerBusiness.pdb
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\CoreBusiness\obj\Debug\EulerBusiness.csprojResolveAssemblyReference.cache
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\EulerBusiness\bin\Debug\EulerBusiness.dll
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\EulerBusiness\bin\Debug\EulerBusiness.pdb
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\EulerBusiness\obj\Debug\EulerBusiness.dll
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\EulerBusiness\obj\Debug\EulerBusiness.pdb

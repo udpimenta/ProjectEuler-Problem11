@@ -1,0 +1,19 @@
+﻿@model Problem11.UI.WebApplicationMVC.Models.HomeModel
+@{
+    ViewBag.Title = "Uilian Dotto Pimenta";
+}
+
+<div class="jumbotron">
+    <h1>Calc Open Text</h1>
+
+    @using (Html.BeginForm("CalcOpenText", "CalcOpenText", FormMethod.Post))
+    {
+        <p>Calcula o resultado apartir de um texto livre</p>
+        @Html.TextAreaFor(model => model.Grid, new { @class = "form-control", @style = "max-width:477px; width:477px; height:430px" })
+        <br />
+        <button class="btn btn-primary" type="submit">CalcOpenText</button>
+        <br />
+        <strong>@TempData["Result2"]</strong>
+    }
+
+</div>

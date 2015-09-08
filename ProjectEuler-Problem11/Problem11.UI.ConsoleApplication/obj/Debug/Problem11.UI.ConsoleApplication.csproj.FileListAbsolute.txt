@@ -1,0 +1,11 @@
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\ConsoleApplication\obj\Debug\Problem11.UI.ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\ConsoleApplication\bin\Debug\Problem11.UI.ConsoleApplication.exe.config
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\Problem11.UI.ConsoleApplication\bin\Debug\Problem11.UI.ConsoleApplication.exe.config
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\Problem11.UI.ConsoleApplication\bin\Debug\Problem11.UI.ConsoleApplication.exe
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\Problem11.UI.ConsoleApplication\bin\Debug\Problem11.UI.ConsoleApplication.pdb
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\Problem11.UI.ConsoleApplication\bin\Debug\EulerBusiness.dll
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\Problem11.UI.ConsoleApplication\bin\Debug\EulerBusiness.pdb
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\Problem11.UI.ConsoleApplication\obj\Debug\Problem11.UI.ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\Problem11.UI.ConsoleApplication\obj\Debug\Problem11.UI.ConsoleApplication.exe
+C:\Users\udpim\Documents\Visual Studio 2013\Projects\ProjetctEuler-Problem11\Problem11.UI.ConsoleApplication\obj\Debug\Problem11.UI.ConsoleApplication.pdb
